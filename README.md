@@ -28,6 +28,6 @@ backtrader相关小工具
     2. 运行livingfeedTEST.py
 
 + server酱 微信提醒（可选）
-    1. 申请server酱 key
+    1. 申请[server酱](http://sc.ftqq.com/3.versionServer) key
     2. 补充base_func.py文件开头 key = ''# server酱 key
     3. 修改相应代码
