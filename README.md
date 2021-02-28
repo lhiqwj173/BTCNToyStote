@@ -23,7 +23,7 @@ backtrader相关小工具
     3. 开一个终端运行K_record.py
     4. 运行livingfeedTEST.py
 
-  + akshare分钟级数据（行情延迟，容易封IP）：
+  + akshare分钟级数据（行情延迟，容易封IP，建议大周期少标的使用）：
     1. 按需修改livingfeedTEST.py
     2. 运行livingfeedTEST.py
 
